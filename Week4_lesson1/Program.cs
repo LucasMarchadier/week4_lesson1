@@ -90,8 +90,8 @@ namespace Week4_lesson1
 
               }
               Console.Write("\n ");
-            int index1 = 0;
-            int index2 = 0;
+            //int index1 = 0;
+            //int index2 = 0;
 
             for (int i = 0; i < tab.Length; i++)
             {
@@ -99,9 +99,9 @@ namespace Week4_lesson1
                 {
                     if (tab[j] < tab[j + 1])
                     {
-                        int tmp = tab[index1];
-                        tab[index1] = tab[index2];
-                        tab[index2] = tmp;
+                        int tmp = tab[j];
+                        tab[j] = tab[j+1];
+                        tab[j+1] = tmp;
 
 
                     }
@@ -115,18 +115,14 @@ namespace Week4_lesson1
               for (int i = 0; i < tab2.Length; i++)
               {
                   tab2[i] = (char)tab[i];
-
               }
 
               for (int i = 0; i < tab2.Length; i++)
               {
-                  Console.Write(tab2[i] + " ");
+                  Console.Write(tab2[i]);
 
               }
-
-            
-
-            return tab2;
+             return tab2;
 
         }
 
@@ -313,7 +309,7 @@ namespace Week4_lesson1
             */
 
             // Asciia();
-            // Q3b();
+             Q3b();
             // Q4("aaaabbcccc");
 
             /*int[] tab = { 5, 7, 5, 2, 2, 4, 5 };
@@ -323,7 +319,7 @@ namespace Week4_lesson1
 
             // Q8();
 
-            ArrayOfPerson();
+           // ArrayOfPerson();
 
             Console.ReadKey();
 

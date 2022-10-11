@@ -20,6 +20,11 @@ namespace Week4_lesson1
             this.name = n;
         }
 
+        ~Person()
+        {
+            Console.WriteLine("Destructor used");
+        }
+
         public string Name
         {
             get { return this.name; }

@@ -1,0 +1,7 @@
+C:\Users\Lucas\Documents\esilv\DORSET\C#\Week4_lesson1\Week4_lesson1\bin\Debug\Week4_lesson1.exe.config
+C:\Users\Lucas\Documents\esilv\DORSET\C#\Week4_lesson1\Week4_lesson1\bin\Debug\Week4_lesson1.exe
+C:\Users\Lucas\Documents\esilv\DORSET\C#\Week4_lesson1\Week4_lesson1\bin\Debug\Week4_lesson1.pdb
+C:\Users\Lucas\Documents\esilv\DORSET\C#\Week4_lesson1\Week4_lesson1\obj\Debug\Week4_lesson1.csproj.AssemblyReference.cache
+C:\Users\Lucas\Documents\esilv\DORSET\C#\Week4_lesson1\Week4_lesson1\obj\Debug\Week4_lesson1.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\esilv\DORSET\C#\Week4_lesson1\Week4_lesson1\obj\Debug\Week4_lesson1.exe
+C:\Users\Lucas\Documents\esilv\DORSET\C#\Week4_lesson1\Week4_lesson1\obj\Debug\Week4_lesson1.pdb
